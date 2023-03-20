@@ -10,4 +10,5 @@ urlpatterns = [
     path('conf/', include('conf_center.urls')),
     path('release/', include('release.urls')),
     path('schedule/', include('schedule.urls')),
+    path('monitor/', include('monitor.urls')),
 ]

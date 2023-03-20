@@ -170,7 +170,7 @@ export default {
 
     // 获取主机列表
     const get_host_list = ()=>{
-      axios.get(`${settings.host}/host/`,{
+      axios.get(`${settings.host}/host/hosts`,{
         headers:{
           Authorization: "jwt " + store.getters.token
         }

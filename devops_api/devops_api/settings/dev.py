@@ -184,6 +184,16 @@ JENKINS = {
     "username": 'admin',
     "password": '119f34391f13b9de5ab6a6976cbfa42881',
 }
+# 发送邮件配置
+EMAIL_HOST_USER = "13928835901@163.com"
+EMAIL_HOST_PASSWORD = "XOLWYFIMEREAWCOU"
+EMAIL_HOST = "smtp.163.com"
+EMAIL_PORT = 465
+EMAIL_USE_SSL = True
+
+# 监控脚本的路径
+MONITOR_SCRIPT = BASE_DIR.parent / "scripts/monitor.py"
+REMOTE_MONITOR_SCRIPT_PATH = "~/monitor.py"
 
 # 日志配置
 LOGGING = {
