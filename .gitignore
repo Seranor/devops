@@ -1,0 +1,32 @@
+devops_web/.DS_Store
+devops_api/.DS_Store
+devops_web/node_modules
+devops_web/dist
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+devops_web/npm-debug.log*
+devops_web/yarn-debug.log*
+devops_web/yarn-error.log*
+devops_web/pnpm-debug.log*
+
+# Editor directories and files
+devops_api/.idea
+devops_web/.idea
+devops_web/.vscode
+devops_web/*.suo
+devops_web/*.ntvs*
+devops_web/*.njsproj
+devops_web/*.sln
+devops_web/*.sw?
+
+
+devops_api/logs/*.log
+
+*.pyc
+
+__pycache__/
