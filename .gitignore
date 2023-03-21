@@ -1,5 +1,6 @@
 devops_web/.DS_Store
 devops_api/.DS_Store
+.DS_Store
 devops_web/node_modules
 devops_web/dist
 .idea
