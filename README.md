@@ -105,5 +105,7 @@ server {
 ![nQuPpD](https://klcc-img-1251900471.cos.ap-chengdu.myqcloud.com/img/nQuPpD.png)
 ![cpYNMA](https://klcc-img-1251900471.cos.ap-chengdu.myqcloud.com/img/cpYNMA.png)
 ![jAXElP](https://klcc-img-1251900471.cos.ap-chengdu.myqcloud.com/img/jAXElP.png)
+![0jx29C](https://klcc-img-1251900471.cos.ap-chengdu.myqcloud.com/img/0jx29C.png)
+![f2iOMx](https://klcc-img-1251900471.cos.ap-chengdu.myqcloud.com/img/f2iOMx.png)
 ![RW7MrX](https://klcc-img-1251900471.cos.ap-chengdu.myqcloud.com/img/RW7MrX.png)
 ![1g5Y78](https://klcc-img-1251900471.cos.ap-chengdu.myqcloud.com/img/1g5Y78.png)
