@@ -1,10 +1,10 @@
 # devops
-
+迁移仓库，原仓库 https://github.com/klcc-c
 
 ## 后端运行
 
 ```
-https://github.com/klcc-c/devops.git
+git clone https://github.com/Seranor/minio-upfile.git
 # python3.6
 cd devops_api/
 pip install -r requirements.txt
